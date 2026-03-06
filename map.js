@@ -38,4 +38,4 @@ arr.forEach((n)=>{
    if(max<n)max=n
 })
 // console.log('sum of array elements are : ' + sum)
-console.log('max element of array is :' + max)
+console.log('max element of array is :' + max )
